@@ -1,7 +1,7 @@
 # Internship_Task
 Hi this is Teodore i have completed the assigned task for me.<br>
 The API provideed had limited times to call the API so i found another one which did not had that limitation.<br>
-This API can make a normal conversion with currency to currency and it can convert an amount of that currency to the distined one. It also covers every case including edge cases and it tells exactly what is wrong.The input of every call is consisted of base currency, targeted currency, and amount. If you did not pass an amount to be converted it is set to default of 1 but the other attributes is required in order to get an output. 
+This API can make a normal conversion with currency to currency and it can convert an amount of that currency to the distined one. It also covers every case including edge cases and it tells exactly what is wrong. The input of every call is consisted of base currency, targeted currency, and amount. If you did not pass an amount to be converted it is set to default of 1 but the other attributes is required in order to get an output. 
 This is a guide to test the task.<br>
 1 open new terminal and put this command git clone https://github.com/Teodore-Farag/Internship_Task. <br>
 2 open the folder on vsCode and open a new terminal.<br>

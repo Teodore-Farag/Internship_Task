@@ -2,7 +2,7 @@
 Hi this is Teodore i have completed the assigned task for me.
 The API provideed had limited times to call the API so i found another one.
 This is a guide to test the task.
-1 open new terminal and put this command git clone https://github.com/Teodore-Farag/Internship_Task.
+1 open new terminal and put this command git clone https://github.com/Teodore-Farag/Internship_Task. "/n"
 2 open the folder on vsCode and open a new terminal.
 3 write npm install so all required libraries are installed.
 4 write node app in order to initialize the server.
